@@ -1,6 +1,6 @@
 <?php
 	$acao = 'recuperarTarefasPendentes';
-	require '/opt/lampp/htdocs/listatarefas/tarefa_controller.php';
+	require 'tarefa_controller.php';
 
 	
 ?>
