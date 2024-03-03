@@ -2,10 +2,10 @@
 
 class Conexao {
 
-	private $host = 'localhost';
-	private $dbname = 'php_com_pdo';
+	private $host = 'monorail.proxy.rlwy.net';
+	private $dbname = 'railway';
 	private $user = 'root';
-	private $pass = '';
+	private $pass = 'Fb3f3FeA33EHBBaCgF1eaGF1A23-555G';
 
 	public function conectar() {
 		try {
